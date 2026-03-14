@@ -14,7 +14,7 @@ class AIEvaluator:
 
         self.llm = ChatGroq(
             api_key=settings.GROQ_API_KEY,
-            model="llama3-70b-8192",
+            model=settings.GROQ_MODEL,
             temperature=0.2
         )
 
