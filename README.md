@@ -4,10 +4,6 @@ An AI-powered system that analyzes GitHub repositories and generates a
 **developer portfolio evaluation** using repository metrics, AI
 reasoning, and a scoring engine.
 
-This project was built as part of the **Agentic JSO (Job Search
-Optimization) ecosystem** to automatically evaluate technical portfolios
-and help recruiters quickly assess candidate capabilities.
-
 ------------------------------------------------------------------------
 
 # ✨ Features
